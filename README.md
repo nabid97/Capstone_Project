@@ -1,2 +1,2 @@
 # Capstone_Project
-Data Sciencojete
+Data Science Project
